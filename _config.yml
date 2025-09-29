@@ -1,0 +1,7 @@
+title: "Machine Learning Blog"
+description: "授業で学んだ機械学習・深層学習をまとめるブログ"
+url: "https://nakatayuma.github.io"
+baseurl: "/machine-learning-blog"
+theme: minima
+markdown: kramdown
+paginate: 5
